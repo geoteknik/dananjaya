@@ -6,10 +6,10 @@ subheading:
 
 ---
 <ul>
-  <a href="{{site.url }}/komputasi-geoteknik/"> Komputasi geoteknik </a> 
+  <a class="my-link" href="{{site.url }}/komputasi-geoteknik/"> Komputasi geoteknik </a> 
 </ul>
 <ul>
-  <a href="{{site.url }}/metode-komputasi-numerik/"> Metode dan Komputasi Numerik </a> 
+  <a class="my-link" href="{{site.url }}/metode-komputasi-numerik/"> Metode dan Komputasi Numerik </a> 
 </ul>
 
 
